@@ -2,7 +2,8 @@
 
 class Model
 {
-    public function ListarDados(){
+    public function ListarDados()
+    {
         return "Dados vindos do model";
     }    
 
