@@ -9,14 +9,9 @@
 <body>
     <div class="container">
         <div class="jumbotron">
-            <h1>Exibindo os dados da View</h1>
+            <a href="/?pagina=index">Voltar</a>
+            <h1>Pagina não encontrada!</h1>
         </div>
-        <div class="panel panel-default">
-            <div class="panel-body">
-                <h3>Exibir: <?=$dados?></h3>
-            </div>
-        </div>
-
     </div>
 </body>
 </html>
